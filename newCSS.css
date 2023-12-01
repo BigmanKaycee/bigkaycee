@@ -1,0 +1,43 @@
+#container{
+    font-size: 16px;
+}
+.main_heading{
+    font-size: 14px; 
+    background-color: gray;
+}
+.main{
+    background-color: blue;
+}
+
+.main_footer{
+    background-color: green;
+}
+.main_heading, .main_footer{
+    color: red;
+}
+.main_footer p{
+    background-color: red;
+}
+h1+h4{
+    background-color: blue;
+}
+ul>li{
+    background-color: yellow;
+}
+a[ href="#" ]{
+    background-color: darkorange;
+}
+li:first-child {
+    background-color: purple;
+}
+li:last-child{
+    background-color: greenyellow;
+}
+li:nth-child(2){
+    background-color: navajowhite;
+}
+input{
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}

@@ -1,0 +1,103 @@
+.header {
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid skyblue;
+    padding: 10px 10px 10px 10px;
+}
+
+.header11 {
+    display: flex;
+    align-items: center;
+    padding: auto;
+    font-size: 20px;
+    font-style: italic;
+    color: navy;
+}
+
+.header12 {
+    margin: 20px;
+}
+
+a {
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.hero {
+    background-image: url(Images/ABC\ SCHOLLSLOGO-scale-1\ \(1\).jpg); 
+
+    
+
+}
+
+.hero11 {
+    color: black;
+    background-color: skyblue;
+    height: 300px;
+    width: 300px;
+    /*margin-left: 50px;
+    margin-right: 50px;*/
+    padding: 50px;
+}
+
+.hero11 h1 {
+    font-size: 35px;
+    color: yellow;
+
+}
+
+.hero11 a,
+button {
+    background-color: yellow;
+    color: maroon;
+}
+.cati11{
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    background-color: skyblue;
+     
+}
+
+.hero11 h3{
+    color: maroon;
+}
+
+.cati12{
+    background-color: skyblue;
+    justify-content: space-between;
+   /* margin-left: 60px;
+    margin-right: 60px;*/
+    display: flex;
+
+
+}
+.cati131{
+    display: flex;
+    background-color: skyblue;
+    justify-content: space-between;
+   /* margin-left: 60px;
+    margin-right: 60px;*/
+    color: darkblue;
+    justify-content: space-around;
+    font-size: 25px;
+}
+.cati13{
+    background-color: skyblue;
+}
+.cati11 h2{
+    margin-right: 100px;
+}
+ul{
+    background-color: yellow;
+   margin-left: 56px;
+   background-image: url(Images/ABC\ SCHOLLSLOGO-scale-1\ \(1\).jpg);
+}
+.cati14{
+    font-size: larger;
+}
+
+

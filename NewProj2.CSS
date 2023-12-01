@@ -1,0 +1,147 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 25px;
+}
+
+.sec01 {
+    display: flex;
+    align-items: center;
+    padding: auto;
+
+}
+
+.sec02 {
+    margin: 20px;
+}
+
+a {
+    margin: 25px;
+    text-decoration: none;
+    color: black;
+}
+
+.sec03 {
+    display: flex;
+    gap: 20px;
+}
+
+.hero {
+    background-image: url(Images/background.svg);
+    height: 716px;
+
+}
+
+.hero01 {
+    color: black;
+    background-color: #fff3e3;
+    height: 300px;
+    width: 400px;
+    margin-left: 800px;
+    padding-left: 50px;
+
+}
+
+.hero01 h1 {
+    font-size: 40px;
+    color: chocolate;
+    /* padding-left: 60px */
+}
+
+.hero01 a,
+button {
+    font-size: 15px;
+    background-color: chocolate;
+    border: 2px solid chocolate;
+    color: white;
+
+}
+
+.sec01 h1 {
+    font-size: 40px;
+}
+
+.cati01 {
+    text-align: center;
+    display: block;
+}
+
+.cati02 {
+    display: flex;
+    margin: 10px;
+}
+
+.cati03 {
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin: 20px;
+    padding: auto;
+}
+
+.product01 {
+    text-align: center;
+}
+
+.product {
+    margin: 30px 30px;
+}
+
+.grid_products {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: auto auto auto auto;
+    padding: auto auto auto auto;
+    column-gap: 20px;
+    row-gap: 15px;
+}
+
+.grid_product01{
+      background-color: aliceblue;
+}
+.gridpro {
+    margin-top: -10px;
+    /*margin-left: 25px;
+    margin-right: 25px;*/
+    /* justify-content: space-around; */
+    /* display: grid; */
+}
+.grid_product02{
+    background-color: aliceblue;
+}
+.gridpro2{
+    margin-top: -10px;
+    /*margin-left: 25px;
+    margin-right: 25px;*/
+    /* justify-content: space-around; */
+    
+}
+.grid_product03{
+    background-color: aliceblue;
+}
+.gridpro3{
+    margin-top: -10px;
+    /*margin-left: 25px;
+    margin-right: 25px;*/
+    /* justify-content: space-around; */
+}
+.grid_product04{
+    background-color: aliceblue;
+}
+.gridpro4{
+    margin-top: -10px;
+    /*margin-left: 25px;
+    margin-right: 25px;*/
+    /* justify-content: space-around; */
+}
+.grid_product05{
+    background-color: aliceblue;
+
+}
+.gridpro5{ 
+    margin-top: -10px;
+/*margin-left: 25px;
+margin-right: 25px;*/
+/* justify-content: space-around; */
+}

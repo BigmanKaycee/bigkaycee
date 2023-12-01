@@ -1,0 +1,47 @@
+#navigation {
+    border: tomato;
+    background-color: chocolate;
+    display: list-item;
+    font-size: 50px;
+    columns: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.div01 {
+    border-radius: 30px;
+    background-color: aqua;
+    font-style: italic;
+    margin: 10px;
+    padding: 20px;
+
+}
+
+.div03>h1 {
+    font-size: 100px;
+    color: black;
+    
+
+}
+
+.div03>a {
+    background-color: navajowhite;
+    font-size: larger;
+}
+
+.div01>h2 {
+    font-size: 60px; 
+    margin: 10px;
+    padding: 20px; 
+}
+p{
+    margin: 10px;
+}
+body{
+    background-image: url('Images/ABC\ SCHOLLSLOGO-scale-1\ \(1\).jpg')
+ 
+}
+.divbttm >div{
+    column-gap: 20px;
+    display: grid;
+}
